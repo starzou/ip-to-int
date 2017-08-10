@@ -1,0 +1,17 @@
+{
+  "name": "ip-to-int",
+  "version": "1.0.0",
+  "description": "Convert an IPv4 address in the format of null-terminated C string into a 32-bit integer.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "jest": {
+    "testEnvironment": "node"
+  },
+  "author": "StarZou",
+  "license": "WTFPL",
+  "devDependencies": {
+    "jest-cli": "^20.0.4"
+  }
+}
